@@ -132,6 +132,8 @@ En el cálculo del porcentaje de error, se verifica que el margen de error es me
 
 5. VIDEO
 
+https://youtu.be/X8mMBATdEhk
+
 6. CONCLUSIONES
 
 •	Los valores de corriente de cada malla determinados por los cálculos haciendo uso la ley de Kirchhoff son muy aproximados a los valores simulados, obteniendo porcentajes de error menores al 1%.
