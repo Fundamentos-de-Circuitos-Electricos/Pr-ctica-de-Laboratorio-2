@@ -124,7 +124,7 @@ Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la si
 
 Con los que se obtiene los siguientes resultados:
 
-![image](https://user-images.githubusercontent.com/85137398/121644591-d2f2ea80-ca58-11eb-905c-73438536189a.png)
+![image](https://user-images.githubusercontent.com/85137398/121646611-1f3f2a00-ca5b-11eb-9d38-f7cbd2396468.png)
 
 Analisis de Resultados 
 
