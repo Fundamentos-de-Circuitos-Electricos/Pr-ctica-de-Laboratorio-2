@@ -58,6 +58,8 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 IV. Procedemos a medir la corriente de cada malla del circuito. Utilizamos como instrumento de medida un amperimetro.
 
+![image](https://user-images.githubusercontent.com/85137398/121644121-3deff180-ca58-11eb-972d-4b9675b4d0da.png)
+
 A continuación calculamos los valores teóricos de corriente en las mallas del circuito, para completar la siguiente tabla:
 
 Aplicamos la Ley de voltaje de Kirchhoff 
