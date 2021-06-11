@@ -64,6 +64,53 @@ Aplicamos la Ley de voltaje de Kirchhoff
 
 ![image](https://user-images.githubusercontent.com/85137398/121634958-15adc600-ca4b-11eb-86c5-eeaf52a14517.png)
 
+Planteamos la ecuación de la Malla I1
+
+(82kΩ + 1kΩ)·I1 – I2 = 18
+
+Planteamos la ecuación de la Malla I2
+
+(1kΩ + 1.2kΩ + 2.2kΩ)·I2 – I1 - 2.2kΩ·I3 = 0
+
+Planteamos la ecuación de la Malla I3
+
+(2.2 kΩ + 0,39 kΩ)·I3 – 2.2 kΩ·I2 = -5
+
+Simplificamos las ecuaciones
+
+•	1.82kΩ·I1 – I2 = 18 (Ecuación 1)
+
+•	4.4 kΩ·I2 – I1 – 2.2 kΩ·I3 = 0 (Ecuación 2)
+
+•	2.59 kΩ·I3 – 2.2 kΩ·I2 = -5 (Ecuación 3)
+
+Multiplicar la Ecuación 1 por (-2.2) y sumar con la Ecuación 3 y despejar I1:
+
+I1 = (44.6 + 2.59·I1) / 4.004 (Ecuación 4)
+
+Reemplazar Ecuación 4 en Ecuación 1 y despejar I2:
+
+I2 = (9.1 + 4.71·I3) / 4004 (Ecuación 5)
+
+Reemplazar Ecuación 4 y Ecuación 5 en Ecuación 2, despejar y sacar el valor de I3:
+
+I3 = 0.49 mA. (Ecuación 6)
+
+Reemplazar Ecuación 6 en Ecuación 3 y calcular el valor de I2:
+
+I2 = 2.82 mA. (Ecuación 7)
+
+Reemplazar Ecuación 7 en Ecuación 1 y calcular el valor de I1:
+
+I1 = 11,44 mA.
+
+Resolviendo el sistema de ecuaciones por método de reducción de Gauss Jordan, obtenemos como resultado:
+
+I1 = 11,44 mA.
+
+I2 = 2.82 mA. 
+
+I3 = 0.49 mA.
 
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
