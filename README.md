@@ -66,7 +66,7 @@ Aplicamos la Ley de voltaje de Kirchhoff
 
 Planteamos la ecuación de la Malla I1
 
-(82kΩ + 1kΩ)·I1 – I2 = 18
+(0.82kΩ + 1kΩ)·I1 – I2 = 18
 
 Planteamos la ecuación de la Malla I2
 
