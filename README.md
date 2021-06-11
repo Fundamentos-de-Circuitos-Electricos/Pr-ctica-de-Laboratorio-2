@@ -88,7 +88,7 @@ Simplificamos las ecuaciones
 
 Multiplicar la Ecuación 1 por (-2.2) y sumar con la Ecuación 3 y despejar I1:
 
-I1 = (44.6 + 2.59·I1) / 4.004 (Ecuación 4)
+I1 = (44.6 + 2.59·I3) / 4.004 (Ecuación 4)
 
 Reemplazar Ecuación 4 en Ecuación 1 y despejar I2:
 
