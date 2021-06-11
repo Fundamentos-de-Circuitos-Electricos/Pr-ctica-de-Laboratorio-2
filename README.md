@@ -114,6 +114,7 @@ I2 = 2.82 mA.
 
 I3 = 0.49 mA.
 
+![image](https://user-images.githubusercontent.com/85137398/121644557-c5d5fb80-ca58-11eb-9168-bf8e9cd7f328.png)
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
@@ -122,6 +123,12 @@ Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la si
 ![image](https://user-images.githubusercontent.com/85137398/121631171-2e66ad80-ca44-11eb-8e72-d3a386c3d334.png)
 
 Con los que se obtiene los siguientes resultados:
+
+![image](https://user-images.githubusercontent.com/85137398/121644591-d2f2ea80-ca58-11eb-905c-73438536189a.png)
+
+Analisis de Resultados 
+
+En el cálculo del porcentaje de error, se verifica que el margen de error es menor al 2.1%, es decir los calculos fueron correctos teoricamente y por medicion del amperimetro, ya que su margen de error esta bien calculado.
 
 5. VIDEO
 
