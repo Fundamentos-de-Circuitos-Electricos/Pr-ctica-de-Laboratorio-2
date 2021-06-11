@@ -14,11 +14,11 @@ Específicos
 * Interpretar y aplicar las Leyes de Kirchhoff en circuitos paralelos, en serie o mixtos.
 * Calcular mediante leyes de Kirchhoff la intensidad y voltajes de los elementos de circuitos.
 
-2. MARCO TEORICO
+2. MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/85137398/121629514-f4e07300-ca40-11eb-8f37-d9dc20317286.png)
 
-3. EXPLICACION DEL PROCEDIMIENTO
+3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 * Material y equipo requerido
 
@@ -46,19 +46,19 @@ II. Escoger correctamente los resistores con su codificación de colores.
 
 ![image](https://user-images.githubusercontent.com/85137398/121630515-eabf7400-ca42-11eb-8084-eb3a272bf587.png)
 
-III. Conectar el circuito en base al diagrama de conexion.
+III. Conectar el circuito en base al diagrama de conexión.
 
 * Diagrama esquemático
 
 ![image](https://user-images.githubusercontent.com/85137398/121630611-12aed780-ca43-11eb-82db-47217e2cd336.png)
 
-* Conexion del circuito
+* Conexión del circuito
 
 ![image](https://user-images.githubusercontent.com/85137398/121630859-910b7980-ca43-11eb-9a13-c3c1e66a569c.png)
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
-Para caluclar el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
+Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
 
 ![image](https://user-images.githubusercontent.com/85137398/121631171-2e66ad80-ca44-11eb-8e72-d3a386c3d334.png)
 
