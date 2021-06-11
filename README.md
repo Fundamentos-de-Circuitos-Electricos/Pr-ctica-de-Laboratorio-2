@@ -56,6 +56,16 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 ![image](https://user-images.githubusercontent.com/85137398/121630859-910b7980-ca43-11eb-9a13-c3c1e66a569c.png)
 
+IV. Procedemos a medir la corriente de cada malla del circuito. Utilizamos como instrumento de medida un amperimetro.
+
+A continuación calculamos los valores teóricos de corriente en las mallas del circuito, para completar la siguiente tabla:
+
+Aplicamos la Ley de voltaje de Kirchhoff 
+
+![image](https://user-images.githubusercontent.com/85137398/121634958-15adc600-ca4b-11eb-86c5-eeaf52a14517.png)
+
+
+
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
 Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
@@ -67,6 +77,13 @@ Con los que se obtiene los siguientes resultados:
 5. VIDEO
 
 6. CONCLUSIONES
+
+•	Los valores de corriente de cada malla determinados por los cálculos haciendo uso la ley de Kirchhoff son muy aproximados a los valores simulados, obteniendo porcentajes de error menores al 1%.
+
+•	Se demostró la Ley de voltaje de Kirchhoff en cada malla al manifestar que la suma algebraica de los voltajes en dicha malla es igual a 0 ya que con los valores obtenidos y al realizar la suma prácticamente nos dio como resultado 0.
+
+•	Por medio de los cálculos matemáticos y del análisis crítico, se garantiza que se aplicó de manera correcta la ley de voltajes de Kirchhoff en el circuito eléctrico.
+
 
 7. BIBLIOGRAFÍA
 
