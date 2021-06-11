@@ -56,6 +56,25 @@ III. Conectar el circuito en base al diagrama de conexion.
 
 ![image](https://user-images.githubusercontent.com/85137398/121630859-910b7980-ca43-11eb-9a13-c3c1e66a569c.png)
 
+4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
+
+Para caluclar el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
+
+![image](https://user-images.githubusercontent.com/85137398/121631171-2e66ad80-ca44-11eb-8e72-d3a386c3d334.png)
+
+Con los que se obtiene los siguientes resultados:
+
+5. VIDEO
+
+6. CONCLUSIONES
+
+7. BIBLIOGRAFÍA
+
+* Carak.K.(2019).Metodo de mallas - anáñisis de circuitos.10/06/2021.from https://dademuch.com/2019/11/05/metodo-de-mallas-analisis-de-circuitos/
+
+* Ingeniería Mecafenix.(2018).Ley de voltaje de Kirchhoff.10/06/2021.from https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
+
+
 
 
 
